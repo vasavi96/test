@@ -1,2 +1,2 @@
 Hai  Welcome to git hub.
-i will tell u how to add and commit chnages
+i will show how to coommit and the changes.
