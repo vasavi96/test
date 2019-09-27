@@ -1,1 +1,2 @@
 Hai  Welcome to git hub.
+i will show how to coommit and the changes.
